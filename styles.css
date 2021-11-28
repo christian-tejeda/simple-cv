@@ -1,0 +1,9 @@
+body {
+    color: #fbfdfe;
+    background: rgb(2,0,36);
+    background: linear-gradient(to right, #0b203f, #2077bc);
+}
+
+hr {
+    color: #8b9596;
+}
