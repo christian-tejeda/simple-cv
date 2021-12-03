@@ -1,9 +1,8 @@
 body {
-    color: #fbfdfe;
-    background: rgb(2,0,36);
+    color: #ffffff;
     background: linear-gradient(to right, #0b203f, #2077bc);
 }
 
 hr {
-    color: #8b9596;
+    background: linear-gradient(to right, #d0d5d9, #f8d69d);
 }
